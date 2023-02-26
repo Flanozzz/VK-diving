@@ -58,7 +58,7 @@ public class MainActivity extends AppCompatActivity {
         binding.micro.setOnClickListener(v -> clickOnMicroAction());
         binding.hand.setOnClickListener(v -> helloMessage());
         binding.group.setOnClickListener(v -> goToContactList());
-        binding.phone.setOnClickListener(v -> this.finishAffinity());
+        binding.phone.setOnClickListener(v -> finishAndRemoveTask());
         binding.message.setOnClickListener(v -> goToMessage());
         binding.view.setOnClickListener(v -> clickOnViewChangeIconAction());
     }
