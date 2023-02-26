@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="icon_top_size">34dp</dimen>
+    <dimen name="marginTop_icon_top">2dp</dimen>
+    <dimen name="marginLeftRight_icon_top">16dp</dimen>
+    <dimen name="memberPanelsSpaceBetween">7dp</dimen>
+    <dimen name="bottom_iconBack_size">60dp</dimen>
+    <dimen name="bottom_icon_size">40dp</dimen>
+    <dimen name="marginTop_icon_bottom">20dp</dimen>
+    <dimen name="margin_between_bottom_icons">20dp</dimen>
+    <dimen name="member_circle_size">100dp</dimen>
+    <dimen name="member1_top_margin">16dp</dimen>
+</resources>
